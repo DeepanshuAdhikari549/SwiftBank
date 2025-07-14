@@ -1,0 +1,4 @@
+Deepanshu|101|7668070347|Almora|deepanshuadhikari549@gmail.com|1234|32000.00|
+Rohit|102|777755....|Pithoragarh|rohit@gmail.com|141|120000.00|‰
+Anisha|103|985745...|Dehradun|anisha@gmail.com|2522|40000.00|‰
+Anika|104|8545......|Dehradun|anika@gmail.com|456|56000.00|		‰
